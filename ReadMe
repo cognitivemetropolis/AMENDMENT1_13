@@ -1,7 +1,7 @@
 Release 3.0 for RaspberryPi3 B Installing and using AMENDMENT1 OS. To start you should have a 4GB (or larger is fine but not beneficial) Class 10 (Class 4 or better will do) MicroSDHD card and a Raspberry Pi 3. Both of these pieces of hardware can be found online or at a local vendor of choice. We recommend NewEgg, Fry's Electronics, or MicroCenter. You will also need a computer. To make things super-easy, we'll assume you have access to a computer where you can install apps, download files, and insert a MicroSDHD card. Here are the steps:
 
     Download the AMENDMENT1 OS v1.13 from "Releases" in this site. It is an ".img" file in ".zip" ready to be "burned" onto the MicroSDHD card. Once downloaded, extract from Zip with common desktop tools.
-    https://github.com/cognitivemetropolis/AMENDMENT1_12/releases
+    https://github.com/cognitivemetropolis/AMENDMENT1_13/releases/tag/1.3
 
     Download Etcher from https://www.etcher.io It is the easiest tool to burn .img files and cross-platform as well.
 
